@@ -1,5 +1,3 @@
-package zzh;
-
 //queue class
 class Queue{
 	private final int SIZE = 20;
